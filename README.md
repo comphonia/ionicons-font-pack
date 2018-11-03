@@ -4,8 +4,11 @@ A fork of ionicons, font-awesomized. download .css, .eot, .ttf and .woff files f
 
 ### Usage
 
-Using the [CheatSheet](https://cheatsheet.com)  Copy the glyphs (square boxes next to the unicode to test them). you will be using them to display the font in any app.
+Using the [CheatSheet](../blob/master/ionicons-v4.4.4/demo.html)  Copy the glyphs (square boxes next to the unicode to test them). you will be using them to display the font in any app.
+
+![sample](blob/master/ionicons-v4.4.4/demo-files/g1.PNG)
+![sample](blob/master/ionicons-v4.4.4/demo-files/g2.PNG)
 
 [Download ionicons-font.zip](../blob/master/ionicons-v4.4.4/ionicons-font.zip)
 
-SVGs from [ionicons](https://ionicons.com/) converted with &hearts; by [comphonia](https://comhponia.com)
+SVGs from [ionicons](https://ionicons.com/) converted with &hearts; by [comphonia](https://comphonia.com)
